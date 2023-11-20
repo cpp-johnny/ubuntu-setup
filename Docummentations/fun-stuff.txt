@@ -1,0 +1,2 @@
+periodic table interative display           --> npx periodic-table-cli   (use / and \ to move around)
+

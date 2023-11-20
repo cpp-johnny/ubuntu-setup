@@ -1,0 +1,15 @@
+super + t             --> launch terminals
+super + s             --> launch settings
+super + f             --> launch firefox
+super + .             --> show emoji
+super + tab           --> switch between windows
+printscreen           --> screenshot/screen record menu
+ctrl + printscreen    --> screenshot
+alt + printscreen     --> screenshot of a window 
+super + a             --> show all apps
+super + up            --> maximise
+super + down          --> minimise
+super + left          --> split screen left
+super + right         --> split screen right
+super + shift + s     --> launch search
+super + d             --> hide all windows

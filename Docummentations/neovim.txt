@@ -1,0 +1,23 @@
+1. General
+access cheatsheet             --> space + c + h
+change theme                  --> space + t + h
+search for a file             --> sace + f + f
+split vertical                --> :sp 
+split vertical                --> :vsp
+
+** for 5 and 6, to move between diff panes use ctrl h/j/k/l to move
+
+line number                   --> space + n 
+relative line number          --> space + r + n
+
+change tabs on top            --> tab 
+close one tab                 --> space + x
+open terminal                 --> space + h/v 
+exit terminal                 --> ctrl + d
+
+2. Tree
+open up tree file system      --> ctrl + n
+make a new file               --> a
+copy a file                   --> c 
+paste a file                  --> p
+

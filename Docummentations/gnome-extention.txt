@@ -1,0 +1,4 @@
+1. Emoji Selector (https://extensions.gnome.org/extension/1162/emoji-selector/)
+2. Vitals (https://github.com/maoschanz/emoji-selector-for-gnome)
+3. Workspace Indicator (https://extensions.gnome.org/extension/3968/improved-workspace-indicator/)
+4. OpenWeather (https://extensions.gnome.org/extension/750/openweather/)
