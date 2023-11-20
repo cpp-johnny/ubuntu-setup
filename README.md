@@ -6,7 +6,7 @@ keeping a repo because switching over to EndeavourOS soon
 
 here are some dotfiles and packages installed
 
-## Screenshots
+## screenshots
 
 
 <details>
@@ -35,5 +35,89 @@ here are some dotfiles and packages installed
 ![Screenshot from 2023-11-04 12-37-46](https://github.com/cpp-johnny/ubuntu-setup/assets/119715263/41bc1d35-dcef-4286-97cd-aa0ab4e0ba24)
 
 </details>
+
+## common packages
+
+<details>
+<summary>useful packages </summary>
+<br>
+
+```
+terminal:             alacritty (used primarily), kitty
+
+editor:               NvChad, VS Code
+
+note taking:          notepad ++ (via snap/wine), Obsidian
+
+browser:              firefox
+
+LaTeX:                TeXstudio
+
+image manupilation:   Gimp
+```
+</details>
+
+
+<details>
+<summary>fun packages </summary>
+<br>
+
+```
+bpytop
+cava
+cbonsai
+cmatrix
+htop
+pipes.sh
+rusty-rain
+tty-clock
+```
+</details>
+
+<details>
+<summary>gnome extension </summary>
+<br>
+
+```
+desktop icons NG (DING)
+Emoji Selector
+Extension List
+Improved Workspace Indicator
+OpenWeather
+Rounded Window Corners
+Vitals
+```
+</details>
+
+<details>
+<summary>firefox extension </summary>
+<br>
+
+```
+uBlock Origin
+Dark Reader
+```
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
