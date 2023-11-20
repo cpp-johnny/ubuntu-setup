@@ -34,6 +34,13 @@ here are some dotfiles and packages installed
 
 ![Screenshot from 2023-11-04 12-37-46](https://github.com/cpp-johnny/ubuntu-setup/assets/119715263/41bc1d35-dcef-4286-97cd-aa0ab4e0ba24)
 
+
+![Screenshot from 2023-10-30 20-18-10](https://github.com/cpp-johnny/ubuntu-setup/assets/119715263/a64b86b8-fea4-4413-85fc-fee5468a1e67)
+
+
+![Screenshot from 2023-10-30 20-25-53](https://github.com/cpp-johnny/ubuntu-setup/assets/119715263/d84a4490-740f-442e-907b-2d230374975e)
+
+
 </details>
 
 ## common packages
@@ -68,6 +75,7 @@ cava
 cbonsai
 cmatrix
 htop
+periodic-table-cli 
 pipes.sh
 rusty-rain
 tty-clock
