@@ -113,8 +113,8 @@ Dark Reader
 
 
 
-
-
+## you may want to check out
+[endeavourOS setup](https://github.com/cpp-johnny/EndeavourOS-setup)
 
 
 
