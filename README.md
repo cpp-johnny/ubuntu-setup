@@ -53,7 +53,7 @@
 <br>
 
 ```
-terminal:             alacritty (used primarily), kitty
+terminal:             alacritty (with catpuccin theme), kitty
 
 editor:               NvChad, VS Code
 
