@@ -1,12 +1,11 @@
 # my first ubuntu setup (wayland/Xorg & dwm)
 
-ubuntu on a old laptop thats super slow
+- ubuntu on a old laptop thats super slow, here are some dotfiles and packages installed
 
-keeping a repo because switching over to EndeavourOS soon
+- keeping a repo because switching over to EndeavourOS soon
 
-here are some dotfiles and packages installed
 
-i have no idea what i am doing 💀💀💀💀💀💀💀💀
+| i have no idea what i am doing 💀💀💀💀💀💀💀💀
 
 # 1. Wayland/Xorg
 
