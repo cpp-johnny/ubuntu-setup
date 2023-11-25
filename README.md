@@ -54,15 +54,10 @@
 
 ```
 terminal:             alacritty (with catpuccin theme), kitty
-
 editor:               NvChad, VS Code
-
 note taking:          notepad ++ (via snap/wine), Obsidian
-
 browser:              firefox
-
 LaTeX:                TeXstudio
-
 image manupilation:   Gimp
 ```
 </details>
