@@ -1,4 +1,4 @@
-# my first ubuntu setup (wayland/Xorg)
+# my first ubuntu setup (wayland/Xorg & dwm)
 
 ubuntu on a old laptop thats super slow
 
@@ -8,7 +8,9 @@ here are some dotfiles and packages installed
 
 i have no idea what i am doing 💀💀💀💀💀💀💀💀
 
-## screenshots
+# 1. Wayland/Xorg
+
+## 1.1 screenshots
 
 
 <details>
@@ -45,7 +47,7 @@ i have no idea what i am doing 💀💀💀💀💀💀💀💀
 
 </details>
 
-## common packages
+## 1.2 common packages
 
 <details>
 <summary>useful packages </summary>
@@ -110,10 +112,14 @@ Dark Reader
 </details>
 
 
+2. dwm
+
+to be uploaded soon lol
 
 
 
-## you may want to check out
+
+## you may also want to check out
 [endeavourOS setup (gnome)](https://github.com/cpp-johnny/EndeavourOS-setup)
 
 
